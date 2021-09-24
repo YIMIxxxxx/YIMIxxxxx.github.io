@@ -33,3 +33,9 @@ Temporary Items
 
 # debug file
 _site
+
+# Jekyll
+.jekyll-cache
+
+# VSCode
+.vscode
