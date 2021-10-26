@@ -39,3 +39,6 @@ _site
 
 # VSCode
 .vscode
+
+#node_modules
+node_modules

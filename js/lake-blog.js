@@ -4,10 +4,9 @@
  * Licensed under Apache 2.0 (https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE)
  */
 
- /*!
- * Hux Blog v1.6.0 (http://startbootstrap.com)
- * Copyright 2016 @huxpro
- * Licensed under Apache 2.0 
+/*!
+ * Lake's Blog v1.1.0 (http://YIMIxxxxx.github.io)
+ * Copyright 2021 Lake <18626728679@163.com>
  */
 
 // Tooltip Init
