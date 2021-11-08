@@ -1,7 +1,7 @@
 # Site settings
 title: Lake's Blog
 SEOTitle: 许泷方的博客 | Lake's Blog
-header-img: img/home-bg-header.jpg
+header-img: assets/home-bg-header.jpg
 email: 18626728679@163.com
 description: "关于许泷方的一切."
 keyword: "许泷方, Lake, 许泷方的博客, Lake's Blog"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/YIMIxxxxx/YIMIxxxxx.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "别急，会好的。"
-sidebar-avatar: /img/about-sidebar-avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /assets/about-sidebar-avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
