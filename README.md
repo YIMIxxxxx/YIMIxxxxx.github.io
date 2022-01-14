@@ -269,6 +269,8 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 
 > Note：
 > 可以使用 `jekyll -s` 命令在本地实时配置博客，提高效率。详见 [Jekyll.com](http://jekyllcn.com/)
+> 如果需要加上草稿，可以用 `jekyll s -D` 或  `jekyll s --drafts` 
+> 如需修改样式，要修改 `.less` 文件，然后运行 `grunt`，就会自动更新 `.css` 和 `.min.css` 文件了。更新之后直接 `jekyll s` 即可. 
 
 参考文档：[using jekyll with pages](https://help.github.com/articles/using-jekyll-with-pages/) & [Upgrading from 2.x to 3.x](http://jekyllrb.com/docs/upgrading/2-to-3/)
 
